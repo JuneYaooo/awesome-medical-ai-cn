@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--22-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--24-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -60,6 +60,8 @@
 | [HIS（ZainZhao）](https://github.com/ZainZhao/HIS) | ![](https://img.shields.io/github/stars/ZainZhao/HIS?style=flat-square) | 医院信息系统。门诊/药房/财务/患者管理工作站。Spring Boot。 |
 | [HIS（TANGKUO）](https://github.com/TANGKUO/HIS) | ![](https://img.shields.io/github/stars/TANGKUO/HIS?style=flat-square) | 医院信息系统。临床诊疗、药品管理、财务管理、患者管理。 |
 | [云医疗管理系统](https://github.com/Rain-Ricky/cloud) | ![](https://img.shields.io/github/stars/Rain-Ricky/cloud?style=flat-square) | 网上挂号、在线问诊、诊断报告查询、费用缴纳。Spring Boot + 前后端分离。 |
+| [智能医疗助手系统](https://github.com/Kevin6giao/zhinengyiliao) | ![](https://img.shields.io/github/stars/Kevin6giao/zhinengyiliao?style=flat-square) | 基于 LangChain4j + Vue3 的智能医疗助手。支持 AI 问答、分导诊、挂号预约/取消和 Pinecone RAG 知识库，前后端分离。 |
+| [MedChatAI](https://github.com/huboyang040911/MedChatAI) | ![](https://img.shields.io/github/stars/huboyang040911/MedChatAI?style=flat-square) | 医疗智能对话系统。FastAPI + Vue3，支持 Dify 知识库检索、图片 OCR、流式响应、用户管理和个性化病史参考。 |
 
 ---
 
