@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--24-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--25-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -33,6 +33,11 @@
 | [HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT?style=flat-square) | 港中文深圳 | 华佗 GPT — 面向医疗场景的开源中文医疗大模型。支持问诊对话、医学知识问答。 |
 | [HuatuoGPT-o1](https://github.com/FreedomIntelligence/HuatuoGPT-o1) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-o1?style=flat-square) | 港中文深圳 | 医疗领域复杂推理能力，Medical o1 思路。 |
 | [DISC-MedLLM](https://github.com/FudanDISC/DISC-MedLLM) | ![](https://img.shields.io/github/stars/FudanDISC/DISC-MedLLM?style=flat-square) | 复旦 DISC | 面向医疗健康对话的大语言模型。智能问诊、医疗知识问答、病历结构化。 |
+| [MING](https://github.com/MediaBrain-SJTU/MING) | ![](https://img.shields.io/github/stars/MediaBrain-SJTU/MING?style=flat-square) | 上海交大 MediaBrain | 中文医疗问诊大模型。支持医疗问答和多轮问诊，并持续开源 MING-MOE、评测与临床 agent 相关工作。 |
+| [BianQue](https://github.com/scutcyr/BianQue) | ![](https://img.shields.io/github/stars/scutcyr/BianQue?style=flat-square) | 华南理工 | 主动健康大模型基座中的中文健康对话模型，强调多轮问询链、慢病与心理咨询场景，配套千万级健康对话数据。 |
+| [QiZhenGPT](https://github.com/CMKRG/QiZhenGPT) | ![](https://img.shields.io/github/stars/CMKRG/QiZhenGPT?style=flat-square) | 浙大 / 启真医学 | 基于启真医学知识库构建的中文医疗大模型，已扩展为 MedCopilot 并落地医院智慧助手场景。 |
+| [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-II?style=flat-square) | 港中文深圳 | HuatuoGPT 第二代：一阶段医疗域适配，开源 7B/13B/34B 模型、训练数据与评测代码。 |
+| [Taiyi-LLM](https://github.com/DUTIR-BioNLP/Taiyi-LLM) | ![](https://img.shields.io/github/stars/DUTIR-BioNLP/Taiyi-LLM?style=flat-square) | 大工 BioNLP | 中英双语生物医学大模型 Taiyi 2，覆盖 13 类 biomedical 任务，开放模型、数据和 Demo。 |
 
 ---
 
@@ -44,6 +49,8 @@
 |------|-------|------|
 | [MedRAX](https://github.com/bowang-lab/MedRAX) | ![](https://img.shields.io/github/stars/bowang-lab/MedRAX?style=flat-square) | **ICML 2025**。胸部 X 光 AI 解读。集成 CheXagent、LLaVA-Med、MedSAM 等多模型。需 GPU。 |
 | [EasyLung](https://github.com/TommyZihao/EasyLung) | ![](https://img.shields.io/github/stars/TommyZihao/EasyLung?style=flat-square) | 从 X 光胸片中 AI 识别肺炎及病原体种类。包含网页、**微信小程序**、APP。 |
+| [XrayGLM](https://github.com/WangRongsheng/XrayGLM) | ![](https://img.shields.io/github/stars/WangRongsheng/XrayGLM?style=flat-square) | 中文胸部 X 光多模态模型，提供中文化报告数据集、训练权重和微调实践。 |
+| [Qilin-Med-VL](https://github.com/williamliujl/Qilin-Med-VL) | ![](https://img.shields.io/github/stars/williamliujl/Qilin-Med-VL?style=flat-square) | 中文医疗视觉语言大模型，配套 100 万级 ChiMed-VL 图文数据和两阶段训练脚本。 |
 | [liver_cancer_classify](https://github.com/wuwusky/liver_cancer_classify) | — | 肝癌影像 AI 诊断（3D-Conv 深度学习）。 |
 | [Lambar_Spine_Slicer](https://github.com/Keyon-2580/Lambar_Spine_Slicer) | — | 腰椎影像智能分割可视化系统。Vue+Django+3DUNet。 |
 | [paddle-fl-gui](https://github.com/yyyanbj/paddle-fl-gui) | — | 基于 PaddleFL 的联邦学习医疗影像识别 GUI。百度飞桨框架。 |
