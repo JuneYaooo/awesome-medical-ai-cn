@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--25-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--26-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -38,6 +38,14 @@
 | [QiZhenGPT](https://github.com/CMKRG/QiZhenGPT) | ![](https://img.shields.io/github/stars/CMKRG/QiZhenGPT?style=flat-square) | 浙大 / 启真医学 | 基于启真医学知识库构建的中文医疗大模型，已扩展为 MedCopilot 并落地医院智慧助手场景。 |
 | [HuatuoGPT-II](https://github.com/FreedomIntelligence/HuatuoGPT-II) | ![](https://img.shields.io/github/stars/FreedomIntelligence/HuatuoGPT-II?style=flat-square) | 港中文深圳 | HuatuoGPT 第二代：一阶段医疗域适配，开源 7B/13B/34B 模型、训练数据与评测代码。 |
 | [Taiyi-LLM](https://github.com/DUTIR-BioNLP/Taiyi-LLM) | ![](https://img.shields.io/github/stars/DUTIR-BioNLP/Taiyi-LLM?style=flat-square) | 大工 BioNLP | 中英双语生物医学大模型 Taiyi 2，覆盖 13 类 biomedical 任务，开放模型、数据和 Demo。 |
+| [Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | ![](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese?style=flat-square) | 哈工大 SCIR | 基于中文医学知识的指令微调医疗大模型系列，开源模型、训练代码、论文和双语文档。 |
+| [ChatMed](https://github.com/michael-wzhu/ChatMed) | ![](https://img.shields.io/github/stars/michael-wzhu/ChatMed?style=flat-square) | 开源社区 | 面向日常在线问诊的中文医疗大模型。开源 50 万+ 问诊数据、LoRA 权重和训练脚本。 |
+| [Sunsimiao](https://github.com/X-D-Lab/Sunsimiao) | ![](https://img.shields.io/github/stars/X-D-Lab/Sunsimiao?style=flat-square) | X-D Lab | 孙思邈中文医疗大模型系列。提供权重、Demo、QLoRA 训练/部署说明，强调安全可靠的中文医疗对话能力。 |
+| [ShenNong-TCM-LLM](https://github.com/michael-wzhu/ShenNong-TCM-LLM) | ![](https://img.shields.io/github/stars/michael-wzhu/ShenNong-TCM-LLM?style=flat-square) | 开源社区 | 面向中医药知识问答与传承的大模型，公开中医知识图谱、自指令数据构建方法和模型资源。 |
+| [CMLM-ZhongJing](https://github.com/pariskang/CMLM-ZhongJing) | ![](https://img.shields.io/github/stars/pariskang/CMLM-ZhongJing?style=flat-square) | CMLM | 面向中医的专家知识引导大模型，提供 13.5 万+ 专业指令、论文、权重和 Colab 部署示例。 |
+| [Zhongjing](https://github.com/SupritYoung/Zhongjing) | ![](https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=flat-square) | 开源社区 | 首个完整覆盖预训练、SFT 和 RLHF 流程的中文医疗大模型之一，公开真实多轮医患数据集 CMtMedQA 与 AAAI 2024 论文代码。 |
+| [TCMLLM](https://github.com/2020MEAI/TCMLLM) | ![](https://img.shields.io/github/stars/2020MEAI/TCMLLM?style=flat-square) | 2020MEAI | 聚焦中医临床辅助诊疗与处方推荐的指令微调大模型，附 68k 数据样本和批量推理脚本。 |
+| [MedChatZH](https://github.com/tyang816/MedChatZH) | ![](https://img.shields.io/github/stars/tyang816/MedChatZH?style=flat-square) | 开源社区 | 基于 Baichuan-7B 的中文医疗问诊模型，兼顾中西医对话，提供数据集、模型和 Web/脚本部署方式。 |
 
 ---
 
