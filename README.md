@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--27-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--28-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -42,6 +42,7 @@
 | [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM) | ![](https://img.shields.io/github/stars/SCIR-HI/Med-ChatGLM?style=flat-square) | 哈工大 SCIR | 基于中文医学知识和知识图谱构建的 ChatGLM 医疗微调模型。开源训练代码、数据构建脚本和模型下载。 |
 | [DoctorGLM](https://github.com/xionghonglin/DoctorGLM) | ![](https://img.shields.io/github/stars/xionghonglin/DoctorGLM?style=flat-square) | 开源社区 | 基于 ChatGLM-6B 的中文问诊模型，覆盖多科室问答数据，提供论文、演示页与交互测试代码。 |
 | [ChatMed](https://github.com/michael-wzhu/ChatMed) | ![](https://img.shields.io/github/stars/michael-wzhu/ChatMed?style=flat-square) | 开源社区 | 面向日常在线问诊的中文医疗大模型。开源 50 万+ 问诊数据、LoRA 权重和训练脚本。 |
+| [PULSE](https://github.com/openmedlab/PULSE) | ![](https://img.shields.io/github/stars/openmedlab/PULSE?style=flat-square) | OpenMEDLab | 开源中文医疗大模型。约 400 万医学/通用指令微调，覆盖问诊、报告解读、病历结构化，并提供 CLI 与 Gradio Demo。 |
 | [Sunsimiao](https://github.com/X-D-Lab/Sunsimiao) | ![](https://img.shields.io/github/stars/X-D-Lab/Sunsimiao?style=flat-square) | X-D Lab | 孙思邈中文医疗大模型系列。提供权重、Demo、QLoRA 训练/部署说明，强调安全可靠的中文医疗对话能力。 |
 | [ShenNong-TCM-LLM](https://github.com/michael-wzhu/ShenNong-TCM-LLM) | ![](https://img.shields.io/github/stars/michael-wzhu/ShenNong-TCM-LLM?style=flat-square) | 开源社区 | 面向中医药知识问答与传承的大模型，公开中医知识图谱、自指令数据构建方法和模型资源。 |
 | [HuangDi](https://github.com/Zlasejd/HuangDi) | ![](https://img.shields.io/github/stars/Zlasejd/HuangDi?style=flat-square) | 开源社区 | 面向中医古籍知识问答的大模型。含继续预训练语料、50 万+ 指令数据构建说明和训练脚本。 |
@@ -61,6 +62,7 @@
 | [MedRAX](https://github.com/bowang-lab/MedRAX) | ![](https://img.shields.io/github/stars/bowang-lab/MedRAX?style=flat-square) | **ICML 2025**。胸部 X 光 AI 解读。集成 CheXagent、LLaVA-Med、MedSAM 等多模型。需 GPU。 |
 | [EasyLung](https://github.com/TommyZihao/EasyLung) | ![](https://img.shields.io/github/stars/TommyZihao/EasyLung?style=flat-square) | 从 X 光胸片中 AI 识别肺炎及病原体种类。包含网页、**微信小程序**、APP。 |
 | [XrayGLM](https://github.com/WangRongsheng/XrayGLM) | ![](https://img.shields.io/github/stars/WangRongsheng/XrayGLM?style=flat-square) | 中文胸部 X 光多模态模型，提供中文化报告数据集、训练权重和微调实践。 |
+| [XrayPULSE](https://github.com/openmedlab/XrayPULSE) | ![](https://img.shields.io/github/stars/openmedlab/XrayPULSE?style=flat-square) | OpenMEDLab 胸部 X 光多模态助手，将 PULSE 与 MedCLIP / Q-Former 结合，开源中文化报告数据构建思路、推理 Demo 和 `xraypulse/` 代码。 |
 | [Qilin-Med-VL](https://github.com/williamliujl/Qilin-Med-VL) | ![](https://img.shields.io/github/stars/williamliujl/Qilin-Med-VL?style=flat-square) | 中文医疗视觉语言大模型，配套 100 万级 ChiMed-VL 图文数据和两阶段训练脚本。 |
 | [liver_cancer_classify](https://github.com/wuwusky/liver_cancer_classify) | — | 肝癌影像 AI 诊断（3D-Conv 深度学习）。 |
 | [Lambar_Spine_Slicer](https://github.com/Keyon-2580/Lambar_Spine_Slicer) | — | 腰椎影像智能分割可视化系统。Vue+Django+3DUNet。 |
