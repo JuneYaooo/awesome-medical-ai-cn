@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--28-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--29-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -19,6 +19,7 @@
 - [电子病历与临床系统](#电子病历与临床系统)
 - [医疗 NLP](#医疗-nlp)
 - [多智能体医疗系统](#多智能体医疗系统)
+- [生物医学研究与药物发现](#生物医学研究与药物发现)
 - [资源合集](#资源合集)
 - [国内急需但尚缺的方向](#-国内急需但尚缺的方向)
 
@@ -106,6 +107,16 @@
 | [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | 多智能体诊断和医疗研究聊天机器人。 |
 | [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | — | Neo4j 知识图谱 + RAG 的医疗问答。LangChain + FastAPI。 |
 | [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | 面向隐私的多智能体医疗问答，可离线运行。 |
+
+---
+
+## 生物医学研究与药物发现
+
+> 面向药物筛选、结构生物学和生物医药研发自动化的 AI 项目。
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [BioAgentFlow](https://github.com/S2026NG/BioAgentFlow) | ![](https://img.shields.io/github/stars/S2026NG/BioAgentFlow?style=flat-square) | 轻量级 AI 药物虚拟筛选平台。覆盖靶点发现、结构预测、分子对接、ADMET 过滤，提供 CLI / Python API / Streamlit UI，并附 Docker、快速入门文档与测试目录。 |
 
 ---
 
