@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--30-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--03--31-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -43,6 +43,7 @@
 | [Med-ChatGLM](https://github.com/SCIR-HI/Med-ChatGLM) | ![](https://img.shields.io/github/stars/SCIR-HI/Med-ChatGLM?style=flat-square) | 哈工大 SCIR | 基于中文医学知识和知识图谱构建的 ChatGLM 医疗微调模型。开源训练代码、数据构建脚本和模型下载。 |
 | [DoctorGLM](https://github.com/xionghonglin/DoctorGLM) | ![](https://img.shields.io/github/stars/xionghonglin/DoctorGLM?style=flat-square) | 开源社区 | 基于 ChatGLM-6B 的中文问诊模型，覆盖多科室问答数据，提供论文、演示页与交互测试代码。 |
 | [ChatMed](https://github.com/michael-wzhu/ChatMed) | ![](https://img.shields.io/github/stars/michael-wzhu/ChatMed?style=flat-square) | 开源社区 | 面向日常在线问诊的中文医疗大模型。开源 50 万+ 问诊数据、LoRA 权重和训练脚本。 |
+| [CareGPT](https://github.com/WangRongsheng/CareGPT) | ![](https://img.shields.io/github/stars/WangRongsheng/CareGPT?style=flat-square) | 开源社区 | 中文医疗大模型与工程化工具栈。仓库同时提供训练、测评、部署代码，含 Gradio/Next Demo、医疗数据整理与多种 LLaMA 系列微调流程。 |
 | [PULSE](https://github.com/openmedlab/PULSE) | ![](https://img.shields.io/github/stars/openmedlab/PULSE?style=flat-square) | OpenMEDLab | 开源中文医疗大模型。约 400 万医学/通用指令微调，覆盖问诊、报告解读、病历结构化，并提供 CLI 与 Gradio Demo。 |
 | [Sunsimiao](https://github.com/X-D-Lab/Sunsimiao) | ![](https://img.shields.io/github/stars/X-D-Lab/Sunsimiao?style=flat-square) | X-D Lab | 孙思邈中文医疗大模型系列。提供权重、Demo、QLoRA 训练/部署说明，强调安全可靠的中文医疗对话能力。 |
 | [ShenNong-TCM-LLM](https://github.com/michael-wzhu/ShenNong-TCM-LLM) | ![](https://img.shields.io/github/stars/michael-wzhu/ShenNong-TCM-LLM?style=flat-square) | 开源社区 | 面向中医药知识问答与传承的大模型，公开中医知识图谱、自指令数据构建方法和模型资源。 |
