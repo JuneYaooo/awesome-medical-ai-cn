@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--03--31-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--04--02-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -105,6 +105,7 @@
 | 项目 | Stars | 说明 |
 |------|-------|------|
 | [cyber-doctor（赛博华佗）](https://github.com/Warma10032/cyber-doctor) | ![](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square) | 基于多模态大模型的多功能医疗智能体。支持本地部署，可接入医疗知识图谱。疾病初诊、病历分析、专业知识问答。 |
+| [智能医疗管家平台](https://github.com/zgsddzwj/intelligent_consultation) | ![](https://img.shields.io/github/stars/zgsddzwj/intelligent_consultation?style=flat-square) | 基于 LangGraph 的多 Agent 医疗咨询系统，集成 Neo4j 知识图谱、Milvus 混合检索、MCP 服务、React 前端，以及 Docker/Kubernetes 部署与 Langfuse/Prometheus 监控。 |
 | [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI **研究编排助手**。通过对话调用 RNA-seq、药物发现、临床分析等 140+ 科学技能。基于 Claude Code + OpenClaw。 |
 | [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | 多智能体诊断和医疗研究聊天机器人。 |
 | [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | — | Neo4j 知识图谱 + RAG 的医疗问答。LangChain + FastAPI。 |
@@ -129,6 +130,7 @@
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![](https://img.shields.io/github/stars/yzfly/Awesome-MCP-ZH?style=flat-square) | MCP 中文资源精选合集 |
 | [ai-guide（鱼皮）](https://github.com/liyupi/ai-guide) | ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square) | AI 资源大全 + 教程。含 OpenClaw/Claude Code 教程、Skills 使用指南。 |
 | [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) | ![](https://img.shields.io/github/stars/mingze-yuan/Awesome-LLM-Healthcare?style=flat-square) | LLM 在医疗领域的论文合集。 |
+| [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) | ![](https://img.shields.io/github/stars/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM?style=flat-square) | 医疗/健康 LLM 双语资源索引，汇总中文与英文数据集、模型和论文入口，覆盖问诊对话、EHR、医学影像和基准评测。 |
 
 ---
 
