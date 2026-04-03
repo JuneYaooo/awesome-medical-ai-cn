@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--04--02-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--04--03-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -120,6 +120,7 @@
 | 项目 | Stars | 说明 |
 |------|-------|------|
 | [BioAgentFlow](https://github.com/S2026NG/BioAgentFlow) | ![](https://img.shields.io/github/stars/S2026NG/BioAgentFlow?style=flat-square) | 轻量级 AI 药物虚拟筛选平台。覆盖靶点发现、结构预测、分子对接、ADMET 过滤，提供 CLI / Python API / Streamlit UI，并附 Docker、快速入门文档与测试目录。 |
+| [DrugClaw](https://github.com/QSong-github/DrugClaw) | ![](https://img.shields.io/github/stars/QSong-github/DrugClaw?style=flat-square) | 面向药物知识检索与证据综合的多智能体 RAG 系统。覆盖靶点、ADR、DDI、PGx、药物重定位等任务，提供 CLI / Web API、57 个技能分类、资源注册表与自带 benchmark 脚本。 |
 
 ---
 
