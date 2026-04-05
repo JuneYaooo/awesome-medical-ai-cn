@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--04--04-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--04--05-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -96,6 +96,7 @@
 | 项目 | Stars | 说明 |
 |------|-------|------|
 | [Chinese-clinical-NER](https://github.com/MenglinLu/Chinese-clinical-NER) | ![](https://img.shields.io/github/stars/MenglinLu/Chinese-clinical-NER?style=flat-square) | CCKS2019 中文命名实体识别：从医疗文本中识别疾病、解剖部位、影像检查、实验室检验、手术和药物 6 种实体。 |
+| [OpenOE-Lite](https://github.com/wizardlancet/OpenOE-Lite) | ![](https://img.shields.io/github/stars/wizardlancet/OpenOE-Lite?style=flat-square) | 开源循证医学 RAG 系统，模仿 OpenEvidence 风格；基于 OpenAlex + LLM 做中英双语文献检索与问答，无需本地向量库，提供 Web/API、配置文件和快速启动脚本。 |
 
 ---
 
