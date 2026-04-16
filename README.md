@@ -66,6 +66,7 @@
 | [XrayGLM](https://github.com/WangRongsheng/XrayGLM) | ![](https://img.shields.io/github/stars/WangRongsheng/XrayGLM?style=flat-square) | 中文胸部 X 光多模态模型，提供中文化报告数据集、训练权重和微调实践。 |
 | [XrayPULSE](https://github.com/openmedlab/XrayPULSE) | ![](https://img.shields.io/github/stars/openmedlab/XrayPULSE?style=flat-square) | OpenMEDLab 胸部 X 光多模态助手，将 PULSE 与 MedCLIP / Q-Former 结合，开源中文化报告数据构建思路、推理 Demo 和 `xraypulse/` 代码。 |
 | [Qilin-Med-VL](https://github.com/williamliujl/Qilin-Med-VL) | ![](https://img.shields.io/github/stars/williamliujl/Qilin-Med-VL?style=flat-square) | 中文医疗视觉语言大模型，配套 100 万级 ChiMed-VL 图文数据和两阶段训练脚本。 |
+| [medical-vlm](https://github.com/wocwo/medical-vlm) | ![](https://img.shields.io/github/stars/wocwo/medical-vlm?style=flat-square) | 基于 Qwen2.5-VL 的医疗多模态诊断系统，支持 CT/MRI/X-ray/超声、RAG 知识增强、REST API 与 Gradio Web 界面。 |
 | [liver_cancer_classify](https://github.com/wuwusky/liver_cancer_classify) | — | 肝癌影像 AI 诊断（3D-Conv 深度学习）。 |
 | [Lambar_Spine_Slicer](https://github.com/Keyon-2580/Lambar_Spine_Slicer) | — | 腰椎影像智能分割可视化系统。Vue+Django+3DUNet。 |
 | [paddle-fl-gui](https://github.com/yyyanbj/paddle-fl-gui) | — | 基于 PaddleFL 的联邦学习医疗影像识别 GUI。百度飞桨框架。 |
@@ -85,6 +86,7 @@
 | [智能医疗助手系统](https://github.com/Kevin6giao/zhinengyiliao) | ![](https://img.shields.io/github/stars/Kevin6giao/zhinengyiliao?style=flat-square) | 基于 LangChain4j + Vue3 的智能医疗助手。支持 AI 问答、分导诊、挂号预约/取消和 Pinecone RAG 知识库，前后端分离。 |
 | [MedChatAI](https://github.com/huboyang040911/MedChatAI) | ![](https://img.shields.io/github/stars/huboyang040911/MedChatAI?style=flat-square) | 医疗智能对话系统。FastAPI + Vue3，支持 Dify 知识库检索、图片 OCR、流式响应、用户管理和个性化病史参考。 |
 | [KinCare](https://github.com/NanshineLoong/KinCare) | ![](https://img.shields.io/github/stars/NanshineLoong/KinCare?style=flat-square) | 自托管家庭健康空间。整合家庭成员健康档案、AI 对话/语音输入、每日洞察与权限管理；支持 Docker 部署，强调隐私与本地化存储。 |
+| [Open Health Agent](https://github.com/yaotutu/open-health-agent) | ![](https://img.shields.io/github/stars/yaotutu/open-health-agent?style=flat-square) | 开源私有化健康顾问平台，统一记录体重/睡眠/用药/症状等 9 类数据，支持 Web 交互、SQLite 永久存储和后续 AI 分析。 |
 | [SunnySide](https://github.com/6666ccc/SunnySide-) | ![](https://img.shields.io/github/stars/6666ccc/SunnySide-?style=flat-square) | 基于 Spring AI / Spring AI Alibaba Workflow 的住院陪护 Agent 后端。支持 RAG、工具调用、会话记忆、工作流编排、多模态输入、JWT 鉴权与住院业务工具接入。 |
 
 ---
