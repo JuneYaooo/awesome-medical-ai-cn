@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![最后更新](https://img.shields.io/badge/最后更新-2026--04--17-blue.svg)](#)
+[![最后更新](https://img.shields.io/badge/最后更新-2026--04--18-blue.svg)](#)
 
 > 🔧 **找 AI Agent 技能和 MCP 服务器？** 请看 [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 可安装到 Claude Code、Cursor、OpenClaw 等平台的技能
 
@@ -87,6 +87,7 @@
 | [MedChatAI](https://github.com/huboyang040911/MedChatAI) | ![](https://img.shields.io/github/stars/huboyang040911/MedChatAI?style=flat-square) | 医疗智能对话系统。FastAPI + Vue3，支持 Dify 知识库检索、图片 OCR、流式响应、用户管理和个性化病史参考。 |
 | [KinCare](https://github.com/NanshineLoong/KinCare) | ![](https://img.shields.io/github/stars/NanshineLoong/KinCare?style=flat-square) | 自托管家庭健康空间。整合家庭成员健康档案、AI 对话/语音输入、每日洞察与权限管理；支持 Docker 部署，强调隐私与本地化存储。 |
 | [Open Health Agent](https://github.com/yaotutu/open-health-agent) | ![](https://img.shields.io/github/stars/yaotutu/open-health-agent?style=flat-square) | 开源私有化健康顾问平台，统一记录体重/睡眠/用药/症状等 9 类数据，支持 Web 交互、SQLite 永久存储和后续 AI 分析。 |
+| [村医 AI](https://github.com/tongbao2/cunyi-ai) | ![](https://img.shields.io/github/stars/tongbao2/cunyi-ai?style=flat-square) | 面向农村老人的离线 AI 医疗助手 Android 应用。基于 Gemma 4 E2B，集成语音问诊、拍照识药、慢病记录、药物冲突检测和 SOS 求救，强调 100% 离线与硬编码安全阈值。 |
 | [SunnySide](https://github.com/6666ccc/SunnySide-) | ![](https://img.shields.io/github/stars/6666ccc/SunnySide-?style=flat-square) | 基于 Spring AI / Spring AI Alibaba Workflow 的住院陪护 Agent 后端。支持 RAG、工具调用、会话记忆、工作流编排、多模态输入、JWT 鉴权与住院业务工具接入。 |
 
 ---
@@ -111,6 +112,8 @@
 | [cyber-doctor（赛博华佗）](https://github.com/Warma10032/cyber-doctor) | ![](https://img.shields.io/github/stars/Warma10032/cyber-doctor?style=flat-square) | 基于多模态大模型的多功能医疗智能体。支持本地部署，可接入医疗知识图谱。疾病初诊、病历分析、专业知识问答。 |
 | [小甘草](https://github.com/daoti406/xiaogancao) | ![](https://img.shields.io/github/stars/daoti406/xiaogancao?style=flat-square) | 面向中医体质辨识与养生问答的全栈 AI 顾问系统。提供 17 题体质问卷、RAG + Dify/LangGraph 对话、健康档案、提醒和社区模块，含前端/后端/Agent 服务代码。 |
 | [智能医疗管家平台](https://github.com/zgsddzwj/intelligent_consultation) | ![](https://img.shields.io/github/stars/zgsddzwj/intelligent_consultation?style=flat-square) | 基于 LangGraph 的多 Agent 医疗咨询系统，集成 Neo4j 知识图谱、Milvus 混合检索、MCP 服务、React 前端，以及 Docker/Kubernetes 部署与 Langfuse/Prometheus 监控。 |
+| [AI-doctor](https://github.com/kabishou11/AI-doctor) | ![](https://img.shields.io/github/stars/kabishou11/AI-doctor?style=flat-square) | Vue3 纯前端多医生会诊模拟系统。支持多 LLM 医生角色轮询讨论、互评淘汰、会话保存、病例图像注入，以及 HarmonyOS 版本。 |
+| [AI Medical Consultation Center（医宝医院）](https://github.com/adosaids/AI-Medical-Consultation-Center) | ![](https://img.shields.io/github/stars/adosaids/AI-Medical-Consultation-Center?style=flat-square) | FastAPI + React 的多智能体医疗咨询系统。覆盖症状采集、双智能体诊断推理、治疗规划与 PDF/RAG 知识库，支持 WebSocket 流式交互和 Qdrant 检索。 |
 | [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI **研究编排助手**。通过对话调用 RNA-seq、药物发现、临床分析等 140+ 科学技能。基于 Claude Code + OpenClaw。 |
 | [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | 多智能体诊断和医疗研究聊天机器人。 |
 | [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | — | Neo4j 知识图谱 + RAG 的医疗问答。LangChain + FastAPI。 |
