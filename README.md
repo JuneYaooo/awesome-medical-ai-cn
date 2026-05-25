@@ -53,6 +53,7 @@
 | [TCMLLM](https://github.com/2020MEAI/TCMLLM) | ![](https://img.shields.io/github/stars/2020MEAI/TCMLLM?style=flat-square) | 2020MEAI | 聚焦中医临床辅助诊疗与处方推荐的指令微调大模型，附 68k 数据样本和批量推理脚本。 |
 | [MedChatZH](https://github.com/tyang816/MedChatZH) | ![](https://img.shields.io/github/stars/tyang816/MedChatZH?style=flat-square) | 开源社区 | 基于 Baichuan-7B 的中文医疗问诊模型，兼顾中西医对话，提供数据集、模型和 Web/脚本部署方式。 |
 
+
 ---
 
 ## 医学影像 AI
@@ -117,6 +118,7 @@
 | [MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | ![](https://img.shields.io/github/stars/xjtulyc/MedgeClaw?style=flat-square) | 西安交大 — 生物医学 AI **研究编排助手**。通过对话调用 RNA-seq、药物发现、临床分析等 140+ 科学技能。基于 Claude Code + OpenClaw。 |
 | [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | 多智能体诊断和医疗研究聊天机器人。 |
 | [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | — | Neo4j 知识图谱 + RAG 的医疗问答。LangChain + FastAPI。 |
+
 | [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | 面向隐私的多智能体医疗问答，可离线运行。 |
 
 ---
@@ -128,6 +130,7 @@
 | 项目 | Stars | 说明 |
 |------|-------|------|
 | [BioAgentFlow](https://github.com/S2026NG/BioAgentFlow) | ![](https://img.shields.io/github/stars/S2026NG/BioAgentFlow?style=flat-square) | 轻量级 AI 药物虚拟筛选平台。覆盖靶点发现、结构预测、分子对接、ADMET 过滤，提供 CLI / Python API / Streamlit UI，并附 Docker、快速入门文档与测试目录。 |
+
 | [DrugClaw](https://github.com/QSong-github/DrugClaw) | ![](https://img.shields.io/github/stars/QSong-github/DrugClaw?style=flat-square) | 面向药物知识检索与证据综合的多智能体 RAG 系统。覆盖靶点、ADR、DDI、PGx、药物重定位等任务，提供 CLI / Web API、57 个技能分类、资源注册表与自带 benchmark 脚本。 |
 
 ---
