@@ -120,6 +120,7 @@
 | [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | — | Neo4j 知识图谱 + RAG 的医疗问答。LangChain + FastAPI。 |
 | [MediCareAI-Agent](https://github.com/HougeLangley/MediCareAI-Agent) | ![](https://img.shields.io/github/stars/HougeLangley/MediCareAI-Agent?style=flat-square) | Multi-Agent Autonomous Medical Collaboration System |
 | [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | 面向隐私的多智能体医疗问答，可离线运行。 |
+| [RAGQnASystem](https://github.com/honeyandme/RAGQnASystem) | ![](https://img.shields.io/github/stars/honeyandme/RAGQnASystem?style=flat-square) | 基于 RAG 与大模型技术的医疗问答系统，结合 DiseaseKG 数据集与 Neo4j 知识图谱，支持 BERT 命名实体识别和多智能体协作推理。 |
 
 ---
 
