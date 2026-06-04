@@ -53,6 +53,7 @@
 | [TCMLLM](https://github.com/2020MEAI/TCMLLM) | ![](https://img.shields.io/github/stars/2020MEAI/TCMLLM?style=flat-square) | 2020MEAI | 聚焦中医临床辅助诊疗与处方推荐的指令微调大模型，附 68k 数据样本和批量推理脚本。 |
 | [MedChatZH](https://github.com/tyang816/MedChatZH) | ![](https://img.shields.io/github/stars/tyang816/MedChatZH?style=flat-square) | 开源社区 | 基于 Baichuan-7B 的中文医疗问诊模型，兼顾中西医对话，提供数据集、模型和 Web/脚本部署方式。 |
 | [LLM-Pretrain-FineTune](https://github.com/X-jun-0130/LLM-Pretrain-FineTune) | ![](https://img.shields.io/github/stars/X-jun-0130/LLM-Pretrain-FineTune?style=flat-square) | Deepspeed、LLM、Medical_Dialogue、医疗大模型、预训练、微调 |
+| [Sunsimiao](https://github.com/X-D-Lab/Sunsimiao) | ![](https://img.shields.io/github/stars/X-D-Lab/Sunsimiao?style=flat-square) | X-D Lab | 孙思邈中文医疗大模型：提供安全、可靠、普惠的中文医疗大模型，支持临床问诊、医学问答和健康咨询。 |
 
 ---
 
@@ -90,6 +91,7 @@
 | [Open Health Agent](https://github.com/yaotutu/open-health-agent) | ![](https://img.shields.io/github/stars/yaotutu/open-health-agent?style=flat-square) | 开源私有化健康顾问平台，统一记录体重/睡眠/用药/症状等 9 类数据，支持 Web 交互、SQLite 永久存储和后续 AI 分析。 |
 | [村医 AI](https://github.com/tongbao2/cunyi-ai) | ![](https://img.shields.io/github/stars/tongbao2/cunyi-ai?style=flat-square) | 面向农村老人的离线 AI 医疗助手 Android 应用。基于 Gemma 4 E2B，集成语音问诊、拍照识药、慢病记录、药物冲突检测和 SOS 求救，强调 100% 离线与硬编码安全阈值。 |
 | [SunnySide](https://github.com/6666ccc/SunnySide-) | ![](https://img.shields.io/github/stars/6666ccc/SunnySide-?style=flat-square) | 基于 Spring AI / Spring AI Alibaba Workflow 的住院陪护 Agent 后端。支持 RAG、工具调用、会话记忆、工作流编排、多模态输入、JWT 鉴权与住院业务工具接入。 |
+| [guipei-medlift](https://github.com/liuguangyihuanchang/guipei-medlift) | ![](https://img.shields.io/github/stars/liuguangyihuanchang/guipei-medlift?style=flat-square) | 规培-medlift：AI 驱动的中国规培医生病历辅助工具，帮助规培医生高效完成病历文书工作。 |
 
 ---
 
