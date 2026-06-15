@@ -54,6 +54,7 @@
 | [MedChatZH](https://github.com/tyang816/MedChatZH) | ![](https://img.shields.io/github/stars/tyang816/MedChatZH?style=flat-square) | 开源社区 | 基于 Baichuan-7B 的中文医疗问诊模型，兼顾中西医对话，提供数据集、模型和 Web/脚本部署方式。 |
 | [LLM-Pretrain-FineTune](https://github.com/X-jun-0130/LLM-Pretrain-FineTune) | ![](https://img.shields.io/github/stars/X-jun-0130/LLM-Pretrain-FineTune?style=flat-square) | Deepspeed、LLM、Medical_Dialogue、医疗大模型、预训练、微调 |
 | [Sunsimiao](https://github.com/X-D-Lab/Sunsimiao) | ![](https://img.shields.io/github/stars/X-D-Lab/Sunsimiao?style=flat-square) | X-D Lab | 孙思邈中文医疗大模型：提供安全、可靠、普惠的中文医疗大模型，支持临床问诊、医学问答和健康咨询。 |
+| [medAlpaca](https://github.com/kbressem/medAlpaca) | ![](https://img.shields.io/github/stars/kbressem/medAlpaca?style=flat-square) | Technical University of Munich | 基于 LLaMA 微调的医学问答大模型，支持临床问答和医学知识检索。 |
 
 ---
 
