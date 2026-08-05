@@ -73,6 +73,7 @@
 | [liver_cancer_classify](https://github.com/wuwusky/liver_cancer_classify) | — | 肝癌影像 AI 诊断（3D-Conv 深度学习）。 |
 | [Lambar_Spine_Slicer](https://github.com/Keyon-2580/Lambar_Spine_Slicer) | — | 腰椎影像智能分割可视化系统。Vue+Django+3DUNet。 |
 | [paddle-fl-gui](https://github.com/yyyanbj/paddle-fl-gui) | — | 基于 PaddleFL 的联邦学习医疗影像识别 GUI。百度飞桨框架。 |
+| [cirosantilli](https://github.com/cirosantilli/cirosantilli) | ![](https://img.shields.io/github/stars/cirosantilli/cirosantilli?style=flat-square) | 小粉红小朋友们，新issue 在这儿开： https://github.com/cirosantilli/china-dictatorship/issues # 21世纪新政宣言（2020年4月5曰笫四次修改稿)（2020年6月19曰第七次修改，以下“【】”内文字为非正文内容的说明）20世纪苏联的消亡和东欧的大变革，使这21世纪初的现中国大陆成为世界关注的最主要焦点和影响新世纪文明发展的关键... |
 
 ---
 
