@@ -148,6 +148,7 @@
 | [ai-guide（鱼皮）](https://github.com/liyupi/ai-guide) | ![](https://img.shields.io/github/stars/liyupi/ai-guide?style=flat-square) | AI 资源大全 + 教程。含 OpenClaw/Claude Code 教程、Skills 使用指南。 |
 | [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) | ![](https://img.shields.io/github/stars/mingze-yuan/Awesome-LLM-Healthcare?style=flat-square) | LLM 在医疗领域的论文合集。 |
 | [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) | ![](https://img.shields.io/github/stars/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM?style=flat-square) | 医疗/健康 LLM 双语资源索引，汇总中文与英文数据集、模型和论文入口，覆盖问诊对话、EHR、医学影像和基准评测。 |
+| [元医生](https://www.yuandoctor.com) | — | 面向执业医师的床旁评分与路径索引（浏览器本地计算、不上传患者数据）。示例：[NIHSS](https://www.yuandoctor.com/linchuang/nihss) · [脓毒症](https://www.yuandoctor.com/r/sepsis) · [Agent Skill](https://www.yuandoctor.com/for-ai/SKILL.md)。三甲医院临床医生团队合作开发与审校。 |
 
 ---
 
