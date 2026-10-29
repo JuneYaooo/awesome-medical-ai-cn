@@ -125,6 +125,7 @@
 | [MediCareAI-Agent](https://github.com/HougeLangley/MediCareAI-Agent) | ![](https://img.shields.io/github/stars/HougeLangley/MediCareAI-Agent?style=flat-square) | Multi-Agent Autonomous Medical Collaboration System |
 | [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | 面向隐私的多智能体医疗问答，可离线运行。 |
 | [RAGQnASystem](https://github.com/honeyandme/RAGQnASystem) | ![](https://img.shields.io/github/stars/honeyandme/RAGQnASystem?style=flat-square) | 基于 RAG 与大模型技术的医疗问答系统，结合 DiseaseKG 数据集与 Neo4j 知识图谱，支持 BERT 命名实体识别和多智能体协作推理。 |
+| [ClinicalFaultBench](https://github.com/hongjunt50-afk/ClinicalFaultBench) | ![](https://img.shields.io/github/stars/hongjunt50-afk/ClinicalFaultBench?style=flat-square) | 临床 AI 智能体失效审计基准。往数据/工具/时序环境注入七类临床语义故障（关键化验缺失、单位错误、矛盾记录、陈旧数据、结果截断、跨患者污染、时间线漂移），用注入前后配对差值度量失败方式而非成功率。主实验用纯合成 Synthea 患者，零合规风险可公开复现。MIT。 |
 
 ---
 
